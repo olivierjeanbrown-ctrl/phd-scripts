@@ -1,2 +1,2 @@
 # phd-scripts
-Various scripts generated throughout my Ph.D. candidacy.
+A few scripts generated throughout my Ph.D. candidacy.
