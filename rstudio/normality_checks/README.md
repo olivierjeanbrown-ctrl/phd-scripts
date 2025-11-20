@@ -1,4 +1,4 @@
-clean_data_normality.R
+normality_checks.R
 ---------------------
 Purpose:
   This R script performs data cleaning and normality checks on a raw dataset. It generates histograms
