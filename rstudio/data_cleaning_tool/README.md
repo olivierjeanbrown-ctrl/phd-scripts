@@ -16,4 +16,3 @@ This repository contains an R script that prepares the dataset for downstream an
 5. **Output**  
    - Cleaned dataset saved to `output/data_placeholder_cleaned.csv`
 
-## File Structure
